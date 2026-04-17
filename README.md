@@ -1,20 +1,21 @@
 # Object-Oriented Programming
 
-Java implementations of classic OOP problems and exercises from coursework at Loyola University Chicago.
+Java exercises from an OOP course. Classic problems, but the focus was on writing clean class structure and understanding how Java handles things like character arrays, HashSets, and string manipulation under the hood.
 
-## Contents
+## Files
 
-| File | Description |
+| File | What it does |
 |---|---|
-| `FibonacciRecursion.java` | Fibonacci sequence via recursion |
-| `FindLargestSmallest.java` | Find min/max in an array |
-| `FindMean.java` / `FindMedian.java` | Statistical utilities |
-| `FizzBuzz.java` | Classic FizzBuzz |
-| `Palindrome.java` | Palindrome check |
-| `RemoveDuplicatesArray.java` / `RemoveDuplicatesHash.java` | Deduplication via array vs. HashSet |
-| `RemoveRepetition.java` | String repetition removal |
-| `ReverseNumber.java` / `ReverseString.java` | Reversal utilities |
-| `CountLetter.java` / `CountNumber.java` | Character and digit counting |
+| `FibonacciRecursion.java` | Fibonacci via recursion |
+| `FindLargestSmallest.java` | Min/max scan over an array |
+| `FindMean.java` / `FindMedian.java` | Mean and median utilities |
+| `FizzBuzz.java` | FizzBuzz |
+| `Palindrome.java` | Palindrome check: skips non-alpha, lowercases, two-pointer |
+| `RemoveDuplicatesArray.java` | Deduplication with a plain array |
+| `RemoveDuplicatesHash.java` | Same thing using HashSet |
+| `RemoveRepetition.java` | Removes repeated characters from a string |
+| `ReverseNumber.java` / `ReverseString.java` | Reversal using char array iteration |
+| `CountLetter.java` / `CountNumber.java` | Character and digit frequency counts |
 | `ReplaceDogWithFish.java` | String substitution |
 
 ## Stack
