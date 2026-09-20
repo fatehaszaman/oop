@@ -1,5 +1,7 @@
 # Object-Oriented Programming
 
+[Algorithm guide: pseudocode, time complexity, and memory](docs/ALGORITHM_GUIDE.md).
+
 Java exercises from an OOP course. Classic problems, but the focus was on writing clean class structure and understanding how Java handles things like character arrays, HashSets, and string manipulation under the hood.
 
 ## Files
